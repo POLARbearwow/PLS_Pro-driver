@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pls_driver.dir/src/main.cpp.o CMakeFiles/pls_driver.dir/src/modbus_config.cpp.o CMakeFiles/pls_driver.dir/src/serial.cpp.o -o pls_driver  -lmodbus 

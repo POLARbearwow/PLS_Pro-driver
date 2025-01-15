@@ -1,0 +1,3 @@
+/home/niu/Desktop/PLS driver/build/CMakeFiles/pls_driver.dir
+/home/niu/Desktop/PLS driver/build/CMakeFiles/edit_cache.dir
+/home/niu/Desktop/PLS driver/build/CMakeFiles/rebuild_cache.dir
